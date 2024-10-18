@@ -1,0 +1,6 @@
+- debug:
+    msg: "hello world"
+- debug:
+    var: package_dir
+- debug:
+    var: project_dir

@@ -1,0 +1,2 @@
+package_dir: "{{ role_path }}"
+project_dir: "{{ playbook_dir }}"
