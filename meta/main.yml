@@ -1,0 +1,22 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: didactic-octo-bassoon
+  author: haydenk
+  description: MySQL server for RHEL/CentOS and Debian/Ubuntu.
+  company: "Waffle Fries Development"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.10
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Archlinux
+      versions:
+        - all
+  galaxy_tags:
+    - testing
